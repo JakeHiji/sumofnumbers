@@ -1,4 +1,4 @@
-const testNum = [1, 2, 3, 4];
+const testNum = [1, 2, 3];
 
 function sumFor(entry) {
   let a = 0;
